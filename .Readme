@@ -1,0 +1,5 @@
+npx json-server db.json
+http://10.243.15.227:3000/users-for chrome browser its check dialy becuase ip change 
+http://10.0.2.2:3000/users-for api testing
+
+http://10.72.135.227:3000/users
